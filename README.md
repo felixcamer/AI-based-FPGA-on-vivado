@@ -14,7 +14,7 @@ La figure suivante représente un neurone :
 Neurone vu de manière générale：
 
 
-![Untitled Diagram drawio(2)](https://user-images.githubusercontent.com/22806623/191124065-59a26be3-974f-4ea0-952b-461b85df5818.png)
+![Untitled Diagram drawio(3)](https://user-images.githubusercontent.com/22806623/191124190-001c5f0a-b39e-4074-9858-4955eb07798a.png)
 
 Neurone vu en détaille ：
 
