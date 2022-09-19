@@ -8,7 +8,7 @@ Les étapes de développement de ce système sont les suivants :
 La base de donnée MNIST est ouverte aux grands publique.\
 -	Sauvegarde des paramètres tels que : les Weights & Biases
 -	Implémentation des réseaux de neurone sur vivado en utilisant verilog.
-
+La connexion des neurones est basée sur le FSM (Finie State Machine)
 La figure suivante représente un neurone : 
 
 Neurone vu de manière générale：
