@@ -29,6 +29,6 @@ Neurone vu en détaille ：
 ![image](https://user-images.githubusercontent.com/22806623/191125334-0e22c08b-0c4d-4548-96b9-1af172ab7343.png)
 
 
-Le système complète avec le processeur Zynq :
+Le système complet avec le processeur Zynq :
 
 ![image](https://user-images.githubusercontent.com/22806623/191125514-8ae686dc-4445-481f-bb2e-45aa7a5c88f5.png)
