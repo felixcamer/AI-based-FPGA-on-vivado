@@ -16,4 +16,4 @@ Neurone vu de manière générale：
 ![Untitled Diagram drawio(2)](https://user-images.githubusercontent.com/22806623/191124260-796cc4e6-5215-4d31-8854-17c491b29e44.png)
 
 Neurone vu en détaille ：
-![Untitled Diagram drawio(4)](https://user-images.githubusercontent.com/22806623/191124361-918e7770-a777-4139-86fb-6b115f846594.png)
+![Untitled Diagram drawio(5)](https://user-images.githubusercontent.com/22806623/191124444-0c85a9b4-1000-4b92-b541-ab68d740a67e.png)
