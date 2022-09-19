@@ -13,9 +13,7 @@ La figure suivante représente un neurone :
 
 Neurone vu de manière générale：
 
-
-![Untitled Diagram drawio(3)](https://user-images.githubusercontent.com/22806623/191124190-001c5f0a-b39e-4074-9858-4955eb07798a.png)
+![Untitled Diagram drawio(2)](https://user-images.githubusercontent.com/22806623/191124260-796cc4e6-5215-4d31-8854-17c491b29e44.png)
 
 Neurone vu en détaille ：
-
-![neuronn](https://user-images.githubusercontent.com/22806623/191123455-ba5f0971-6b17-4527-8bae-a937a611a038.png)
+![Untitled Diagram drawio(4)](https://user-images.githubusercontent.com/22806623/191124361-918e7770-a777-4139-86fb-6b115f846594.png)
