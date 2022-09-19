@@ -13,7 +13,8 @@ La figure suivante représente un neurone :
 
 Neurone vu de manière générale：
 
-![ner](https://user-images.githubusercontent.com/22806623/191123422-e7662a0b-35b4-439f-a4ae-5226b5d83e4c.png)
+
+![Untitled Diagram drawio(2)](https://user-images.githubusercontent.com/22806623/191124065-59a26be3-974f-4ea0-952b-461b85df5818.png)
 
 Neurone vu en détaille ：
 
