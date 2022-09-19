@@ -18,3 +18,12 @@ Neurone vu de manière générale：
 Neurone vu en détaille ：
 
 ![Untitled Diagram drawio(5)](https://user-images.githubusercontent.com/22806623/191124444-0c85a9b4-1000-4b92-b541-ab68d740a67e.png)
+
+
+-	Implémentation du testbench pour comparer la précision obtenue de vivado à celle obtenue de python
+-	Implémentation du côté software sur vivado IDE
+-	Conversion d’une image en text et la passée en entrée de la carte zybo20 pour valider le système.
+-	La figure suivante est le résultat obtenu au niveau de vivado :
+
+
+![image](https://user-images.githubusercontent.com/22806623/191125334-0e22c08b-0c4d-4548-96b9-1af172ab7343.png)
